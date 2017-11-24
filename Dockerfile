@@ -1,4 +1,4 @@
-FROM nginx:1.13.6
+FROM nginx:1.13.7
 
 LABEL maintainer="k@kalka.io"
 
